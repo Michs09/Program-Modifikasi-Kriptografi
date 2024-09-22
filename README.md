@@ -17,10 +17,11 @@ Rail Fence yakni algoritma kriptografi kunci simetris yang menggunakan metode ci
 
 #### 2) Circular Shift
 Circular Shift, atau geser sirkular, merupakan operasi bitwise yang memindahkan semua bit dalam suatu bilangan biner ke arah tertentu. Ketika bit-bit tersebut keluar dari batas bilangan, mereka akan masuk kembali dari sisi sebaliknya. Dalam konteks ini, setiap bit digeser tanpa mempertimbangkan nilai bit tersebut.
+![alt_text](https://github.com/Michs09/Program-Modifikasi-Kriptografi/blob/main/Images/Circular_Shift.png)
 
 #### 3) Kriptografi DNA
 DNA Cryptography merupakan bidang penelitian yang menggabungkan konsep dari ilmu genetika dan kriptografi untuk mengamankan penyimpanan serta pertukaran informasi dalam materi genetik DNA (Deoxyribonucleic Acid). Konsep dasar dari DNA Cryptography mencakup enkripsi dan dekripsi informasi dalam bentuk urutan nukleotida DNA. Kriptografi DNA mampu menyimpan jumlah data besar dalam volume kecil dengan menggunakan hanya empat huruf, yaitu A, C, G, dan T. Basa-basa ini membentuk struktur untai DNA melalui ikatan hidrogen yang menjaga dua untai tetap utuh.
+![alt_text](https://github.com/Michs09/Program-Modifikasi-Kriptografi/blob/main/Images/DNA_Kriptografi.png)
 
-
-
-Hasil eksekusi program
+Berikut adalah contoh hasil eksekusi program
+![alt_text](https://github.com/Michs09/Program-Modifikasi-Kriptografi/blob/main/Images/Eksekusi_Program.png)
