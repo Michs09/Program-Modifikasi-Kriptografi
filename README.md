@@ -13,6 +13,7 @@ Perkembangan teknologi di bidang jaringan komunikasi seluler dengan konsep siste
 ## _Algoritma_
 #### 1) Rail Fence
 Rail Fence yakni algoritma kriptografi kunci simetris yang menggunakan metode cipher transposisi. Dalam metode ini, teks biasa dituliskan dalam pola diagonal, sehingga teks sandi yang dihasilkan bisa dibaca baris per baris.
+![alt text](https://github.com/Michs09/Program-Modifikasi-Kriptografi/blob/main/Images/Rail_Fence.png)
 
 #### 2) Circular Shift
 Circular Shift, atau geser sirkular, merupakan operasi bitwise yang memindahkan semua bit dalam suatu bilangan biner ke arah tertentu. Ketika bit-bit tersebut keluar dari batas bilangan, mereka akan masuk kembali dari sisi sebaliknya. Dalam konteks ini, setiap bit digeser tanpa mempertimbangkan nilai bit tersebut.
